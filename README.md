@@ -1,2 +1,2 @@
 # Registro-de-Pessoa-Fisica
-<p><img src="Imags/RPF.JPG"></p>
+<p><img src="RPF.JPG"></p>
